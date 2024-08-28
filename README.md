@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandeep2rawat
-- 👀 I’m interested in solving problems.
+- 👀 I’m interested in solving problems (algorithm and system design).
 - 🌱 I’m currently learning algorithms.
-- 💞️ I’m looking to collaborate on pip packages.
+- 💞️ I’m looking to collaborate on pip packages or opensource projects.
 - 📫 How to reach me `sndprwt219@gmail.com`
 
 <!---
