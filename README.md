@@ -27,6 +27,6 @@ I contribute to and experiment with open-source projects around Python, API tool
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/sandeep2rawat/)
+[LinkedIn](https://www.linkedin.com/in/sandeep-rawat-dev/)
 
 <!-- sandeeprawat.dev — coming later -->
